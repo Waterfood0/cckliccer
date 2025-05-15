@@ -1,0 +1,12 @@
+{
+  "name": "Bustling Coast",
+  "short_name": "Bustling Coast",
+  "id": "com.example.gamename",
+  "description": "",
+  "orientation": "portrait",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
